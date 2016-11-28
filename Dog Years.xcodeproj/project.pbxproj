@@ -12,6 +12,7 @@
 		099A02E01DE18A9E00938987 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 099A02DE1DE18A9E00938987 /* Main.storyboard */; };
 		099A02E21DE18A9E00938987 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 099A02E11DE18A9E00938987 /* Assets.xcassets */; };
 		099A02E51DE18A9E00938987 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 099A02E31DE18A9E00938987 /* LaunchScreen.storyboard */; };
+		099A02ED1DE18C6500938987 /* dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 099A02EC1DE18C6500938987 /* dog.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		099A02E11DE18A9E00938987 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		099A02E41DE18A9E00938987 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		099A02E61DE18A9E00938987 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		099A02EC1DE18C6500938987 /* dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				099A02DE1DE18A9E00938987 /* Main.storyboard */,
 				099A02E11DE18A9E00938987 /* Assets.xcassets */,
 				099A02E31DE18A9E00938987 /* LaunchScreen.storyboard */,
+				099A02EC1DE18C6500938987 /* dog.jpg */,
 				099A02E61DE18A9E00938987 /* Info.plist */,
 			);
 			path = "Dog Years";
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				099A02ED1DE18C6500938987 /* dog.jpg in Resources */,
 				099A02E51DE18A9E00938987 /* LaunchScreen.storyboard in Resources */,
 				099A02E21DE18A9E00938987 /* Assets.xcassets in Resources */,
 				099A02E01DE18A9E00938987 /* Main.storyboard in Resources */,
